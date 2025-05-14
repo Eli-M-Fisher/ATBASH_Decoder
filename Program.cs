@@ -9,16 +9,22 @@ namespace ATBASH_Decoder
         {
             Console.WriteLine("=== ATBASH Decoder System ===");
 
-            // Simulated output from Decryption and CleanText
-            string cleanText = "the bomb will explode in the secret location";
+            // Step 1: simulated Input
+            string encryptedMessage = "Gsv xlwv gl zokszyvg ziv ulc...";
 
-            // Simulated result from WordFinder
-            List<string> foundWords = new List<string> { "bomb", "secret" };
+            // Step 2: simulated Decryption
+            string decryptedMessage = "the bomb will explode in the secret location";
 
-            // Analyze the message using WordCounter
+            // Step 3: Clean the text simulated
+            string cleanText = decryptedMessage.ToLower(); // assume we clean and normalize case
+
+            // Step 4: simulated Find suspicious words
+            List<string> foundWords = WordFinder.Find(cleanText);
+
+            // Step 5: Analyze threat level
             string finalMessage = WordCounter.Analyze(cleanText, foundWords);
 
-            // Print the final message
+            // Step 6: Print the result
             Console.WriteLine("\n" + finalMessage);
         }
     }
