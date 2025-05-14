@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace ATBASH_Decoder
 {
@@ -8,16 +9,17 @@ namespace ATBASH_Decoder
         {
             Console.WriteLine("=== ATBASH Decoder System ===");
 
-            // Example encrypted message for initial testing
-            string encryptedMessage = "Gsv xlwv gl zokszyvg ziv ulc...";
+            // Simulated output from Decryption and CleanText
+            string cleanText = "the bomb will explode in the secret location";
 
-            // Future integration with team modules:
-            // string decrypted = Decryption.Decrypt(encryptedMessage);
-            // string cleanText = CleanText.Clean(decrypted);
-            // List<string> foundWords = WordFinder.Find(cleanText, Constants.SuspiciousWords);
-            // string finalMessage = WordCounter.Analyze(cleanText, foundWords);
+            // Simulated result from WordFinder
+            List<string> foundWords = new List<string> { "bomb", "secret" };
 
-            // Console.WriteLine(finalMessage);
+            // Analyze the message using WordCounter
+            string finalMessage = WordCounter.Analyze(cleanText, foundWords);
+
+            // Print the final message
+            Console.WriteLine("\n" + finalMessage);
         }
     }
 }
