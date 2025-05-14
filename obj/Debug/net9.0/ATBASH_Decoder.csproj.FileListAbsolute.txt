@@ -1,0 +1,15 @@
+/Users/elifisher/Documents/Lessons_and_Courses/Programming/C# Kodcode/Practice/Projects/ATBASH_Decoder/bin/Debug/net9.0/ATBASH_Decoder
+/Users/elifisher/Documents/Lessons_and_Courses/Programming/C# Kodcode/Practice/Projects/ATBASH_Decoder/bin/Debug/net9.0/ATBASH_Decoder.deps.json
+/Users/elifisher/Documents/Lessons_and_Courses/Programming/C# Kodcode/Practice/Projects/ATBASH_Decoder/bin/Debug/net9.0/ATBASH_Decoder.runtimeconfig.json
+/Users/elifisher/Documents/Lessons_and_Courses/Programming/C# Kodcode/Practice/Projects/ATBASH_Decoder/bin/Debug/net9.0/ATBASH_Decoder.dll
+/Users/elifisher/Documents/Lessons_and_Courses/Programming/C# Kodcode/Practice/Projects/ATBASH_Decoder/bin/Debug/net9.0/ATBASH_Decoder.pdb
+/Users/elifisher/Documents/Lessons_and_Courses/Programming/C# Kodcode/Practice/Projects/ATBASH_Decoder/obj/Debug/net9.0/ATBASH_Decoder.GeneratedMSBuildEditorConfig.editorconfig
+/Users/elifisher/Documents/Lessons_and_Courses/Programming/C# Kodcode/Practice/Projects/ATBASH_Decoder/obj/Debug/net9.0/ATBASH_Decoder.AssemblyInfoInputs.cache
+/Users/elifisher/Documents/Lessons_and_Courses/Programming/C# Kodcode/Practice/Projects/ATBASH_Decoder/obj/Debug/net9.0/ATBASH_Decoder.AssemblyInfo.cs
+/Users/elifisher/Documents/Lessons_and_Courses/Programming/C# Kodcode/Practice/Projects/ATBASH_Decoder/obj/Debug/net9.0/ATBASH_Decoder.csproj.CoreCompileInputs.cache
+/Users/elifisher/Documents/Lessons_and_Courses/Programming/C# Kodcode/Practice/Projects/ATBASH_Decoder/obj/Debug/net9.0/ATBASH_Decoder.sourcelink.json
+/Users/elifisher/Documents/Lessons_and_Courses/Programming/C# Kodcode/Practice/Projects/ATBASH_Decoder/obj/Debug/net9.0/ATBASH_Decoder.dll
+/Users/elifisher/Documents/Lessons_and_Courses/Programming/C# Kodcode/Practice/Projects/ATBASH_Decoder/obj/Debug/net9.0/refint/ATBASH_Decoder.dll
+/Users/elifisher/Documents/Lessons_and_Courses/Programming/C# Kodcode/Practice/Projects/ATBASH_Decoder/obj/Debug/net9.0/ATBASH_Decoder.pdb
+/Users/elifisher/Documents/Lessons_and_Courses/Programming/C# Kodcode/Practice/Projects/ATBASH_Decoder/obj/Debug/net9.0/ATBASH_Decoder.genruntimeconfig.cache
+/Users/elifisher/Documents/Lessons_and_Courses/Programming/C# Kodcode/Practice/Projects/ATBASH_Decoder/obj/Debug/net9.0/ref/ATBASH_Decoder.dll
