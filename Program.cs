@@ -12,8 +12,8 @@ namespace ATBASH_Decoder
             // Step 1: simulated Input
             string encryptedMessage = "Gsv xlwv gl zokszyvg ziv ulc...";
 
-            // Step 2: simulated Decryption
-            string decryptedMessage = "the bomb will explode in the secret location";
+            // Step 2: real Decryption
+            string decryptedMessage = Decryption.decryption(encryptedMessage);
 
             // Step 3: Clean the text simulated
             string cleanText = decryptedMessage.ToLower(); // assume we clean and normalize case
