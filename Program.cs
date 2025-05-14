@@ -16,7 +16,7 @@ namespace ATBASH_Decoder
             string decryptedMessage = Decryption.decryption(encryptedMessage);
 
             // Step 3: Clean the text simulated
-            string cleanText = decryptedMessage.ToLower(); // assume we clean and normalize case
+            string cleanText = CleanText.Clean(decryptedMessage);
 
             // Step 4: simulated Find suspicious words
             List<string> foundWords = WordFinder.Find(cleanText);
