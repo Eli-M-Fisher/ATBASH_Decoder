@@ -1,2 +1,11 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿namespace Project {
+
+    class Program() {
+
+        public static void Main() {
+            Console.WriteLine(Decryption.decryption("Hello World"));
+        }
+
+    }
+
+}
