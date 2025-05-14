@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ATBASH_Decoder")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1730358e3df6e101a6c66f800cf9a6450ecc6249")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b60df4bb40e6a56cf02a287c13c5b775f944fba3")]
 [assembly: System.Reflection.AssemblyProductAttribute("ATBASH_Decoder")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ATBASH_Decoder")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
