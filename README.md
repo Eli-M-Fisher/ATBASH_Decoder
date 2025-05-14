@@ -1,6 +1,6 @@
 # ATBASH_Decoder
 Software for describing enemy ATBASH cipher communications.
 
-Eli Fisher
-Daniel Fisher
-Or Zellinger
+Eli Fisher - Repo Master
+Daniel Fisher - Cipher Master
+Or Zellinger - Cipher Master
